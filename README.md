@@ -28,9 +28,9 @@ Welcome to **PassGuard**, the ultimate solution for managing your passwords with
 ## 📸 Screenshot
 
 
-![Dashboard](screenshot2.png)
+![Dashboard](Screenshot2.png)
 ---
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot.png)
 *Manage all your credentials in one place.*
 
 ---
